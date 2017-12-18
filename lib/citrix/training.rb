@@ -17,6 +17,6 @@ require "citrix/training/serializer/training_date"
 
 module Citrix
   module Training
-    API_ENDPOINT = "https://api.citrixonline.com/G2T/rest".freeze
+    API_ENDPOINT = "https://api.goto.com/G2T/rest".freeze
   end
 end
